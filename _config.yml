@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 show_excerpts: false # set to true to show excerpts on the homepage
 page_excerpts: false
 
-google_analytics: G-DVRW1QQG2V
+google_analytics: UA-197844779-1
 
 minima:
   skin: dark
