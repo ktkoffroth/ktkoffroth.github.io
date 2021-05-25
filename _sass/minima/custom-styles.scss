@@ -1,9 +1,26 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 .breadcrumbs {
-  padding-left: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: calc(1000px - (30px * 2));
+}
+
+.wrapper {
+    max-width: calc(1000px - (30px * 2));
 }
 
 .site-header {
     line-height: 40px;
+    padding-top: 18px;
+}
+
+.resume-viewport {
+    max-width: 1000px;
+    padding-right: 30px;
+    padding-left: 30px;
+    margin-right: auto;
+    margin-left: auto;
 }
